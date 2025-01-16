@@ -58,3 +58,6 @@ O layout da aplicação está disponível no Figma.
 [Acesse o Figma Layout](https://www.figma.com/design/y78lfB8J1BRFh723tusguL/Teste-SCS?node-id=0-1&p=f&t=IG233zPHjXpLzsNv-0)  
 
 ---
+
+## Vercel
+   [Site no Vercel](https://voz-kohl.vercel.app/) 
