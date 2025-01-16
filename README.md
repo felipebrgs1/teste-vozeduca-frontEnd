@@ -1,7 +1,3 @@
-Aqui está o README com as informações completas e revisadas:  
-
----
-
 # 📝 Teste Voz Front-End  
 
 ## 📄 Descrição  
@@ -62,5 +58,3 @@ O layout da aplicação está disponível no Figma.
 [Acesse o Figma Layout](https://www.figma.com/design/y78lfB8J1BRFh723tusguL/Teste-SCS?node-id=0-1&p=f&t=IG233zPHjXpLzsNv-0)  
 
 ---
-
-Se precisar de mais alguma modificação ou quiser adicionar algo, é só avisar! 🚀
